@@ -1,0 +1,64 @@
+<top>
+<num> Number: E00
+<title> Zewail City Launches New Center for Advanced Materials Research
+<desc> Description:
+Zewail City has launched a new research center dedicated to advanced materials research. The center will focus on developing new materials with applications in various fields, including energy, healthcare, and electronics.
+<narr> Narrative: 
+The launch of this new center marks a significant step forward for Zewail City's research capabilities. The center will bring together leading researchers from around the world to collaborate on cutting-edge materials research, with the potential to drive innovation and economic growth.
+https://zewailcity.edu.eg/
+<startDate> Fri Jan 09 00:00:00 AST 2015
+<endDate> Tue Jan 13 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E01
+<title> Zewail City Launches New Center for Advanced Materials Research Zewail City Hosts International Conference on Nanotechnology
+<desc> Description:
+Zewail City is hosting an international conference on nanotechnology, bringing together experts from academia and industry to discuss the latest advances in this rapidly growing field. The conference will feature keynote presentations, panel discussions, and poster sessions.
+<narr> Narrative: 
+The conference provides a platform for knowledge exchange and collaboration among leading researchers in nanotechnology. It also promotes the development of new technologies and applications in this field, with the potential to improve various aspects of our lives.
+https://zewailcity.edu.eg/
+<startDate> Sat Jan 10 00:00:00 AST 2015
+<endDate> Wed Jan 14 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E02
+<title> Zewail City Partners with Global Technology Company
+<desc> Description:
+Zewail City has entered into a partnership with a leading global technology company to collaborate on research and development projects in the field of artificial intelligence. The partnership will combine Zewail City's research expertise with the company's technological resources to accelerate innovation in this field.
+<narr> Narrative: 
+The partnership showcases Zewail City's commitment to fostering innovation through collaboration with industry leaders. It also provides opportunities for Zewail City researchers to work on real-world projects and gain valuable experience.
+https://zewailcity.edu.eg/
+<startDate> Sun Jan 11 00:00:00 AST 2015
+<endDate> Thu Jan 15 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E03
+<title> Zewail City Students Win International Award for Research Project
+<desc> Description:
+A team of students from Zewail City has won a prestigious international award for their research project on renewable energy. The award recognizes the students' innovative approach to addressing the global challenge of energy sustainability.
+<narr> Narrative: 
+The award is a testament to the quality of education and research at Zewail City. It also highlights the potential of Zewail City students to make significant contributions to the global scientific community.
+https://zewailcity.edu.eg/
+<startDate> Mon Jan 12 00:00:00 AST 2015
+<endDate> Fri Jan 16 23:59:59 AST 2015
+</top>
+
+
+<top>
+<num> Number: E04
+<title> Zewail City: A Hub for Innovation
+<desc> Description:
+Zewail City is not only a research center, but also a hub for innovation and entrepreneurship. It provides various resources and programs to support researchers, students, and startups in developing groundbreaking ideas and bringing them to life.
+<narr> Narrative: 
+Zewail City's commitment to innovation extends beyond its own research activities. By fostering an ecosystem of creativity and collaboration, the city aims to accelerate the development and commercialization of new technologies and solutions. This approach contributes to economic growth and societal progress.
+https://zewailcity.edu.eg/
+<startDate> Mon Jan 12 00:00:00 AST 2015
+<endDate> Fri Jan 16 23:59:59 AST 2015
+</top>
+
